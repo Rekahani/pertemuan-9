@@ -194,7 +194,7 @@ print(90*"-")
 ```
 
 
-#OUTPUT
+#### OUTPUT
 
 Dibawah ini merupakan hasil output dari syntax diatas
 
