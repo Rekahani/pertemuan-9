@@ -61,7 +61,7 @@ print("Gabungan list A dan list B : ", listC) #gabungkan list B dengan list A
 
 print(90*"=")
 
-OUTPUT
+#OUTPUT
 
 Dibawah ini merupakan hasil output dari syntax diatas
 
