@@ -63,6 +63,7 @@ listC = listA + listB
 print("Gabungan list A dan list B : ", listC) #gabungkan list B dengan list A
 
 print(90*"=")
+```
 
 #### OUTPUT
 
@@ -120,6 +121,8 @@ print("======================================================================")
 
 for n in range(x):
     print("|",n+1,"|",names[n],"|",nim[n],"|",uts[n],"|",uas[n],"|",akhir[n],"|")
+```
+
 
 #### OUTPUT
 
@@ -136,6 +139,8 @@ Dibawah ini merupakan hasil output dari syntax diatas
 #### SYNTAX
 
 berikut merupakan syntax untuk menampilkan program diatas
+
+```python
 
 #inisialisasi
 daftarKontak = {"Nama":"Nomer Telpon"}
@@ -186,6 +191,8 @@ print("Hapus kontak Dina")
 kontak.pop('Dina')
 print(kontak.items())
 print(90*"-")
+```
+
 
 #OUTPUT
 
