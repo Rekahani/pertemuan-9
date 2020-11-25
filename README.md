@@ -1,25 +1,28 @@
-##TUGAS PERTEMUAN 9 DAN PENJELASAN
+# TUGAS PERTEMUAN 9 DAN PENJELASAN
 
-LIST, TUPLE, DAN DICTIONARY
+## LIST, TUPLE, DAN DICTIONARY
 
-Nama : Reka Hani Latifah Nurhasanah
+**Nama : Reka Hani Latifah Nurhasanah
 
-Nim : 312010343
+**Nim : 312010343
 
-Kelas : TI.20.A2
+**Kelas : TI.20.A2
 
-Matkul : Bahasa Pemrograman
+**Matkul : Bahasa Pemrograman
 
-TUGAS LATIHAN PADA PRAKTIKUM 4
 
-SOAL
+
+## TUGAS LATIHAN PADA PRAKTIKUM 4
+
+#### SOAL
 
 ![5.png](/gambar/5.png)
 
-SYNTAX
+### SYNTAX
 
 berikut merupakan syntax untuk menampilkan program diatas
 
+'''python
 
 print(90*"=")
 
@@ -61,21 +64,25 @@ print("Gabungan list A dan list B : ", listC) #gabungkan list B dengan list A
 
 print(90*"=")
 
-#OUTPUT
+#### OUTPUT
 
 Dibawah ini merupakan hasil output dari syntax diatas
 
 ![4.png](/gambar/4.png)
 
-#TUGAS PRAKTIKUM 4
+## TUGAS PRAKTIKUM 4
+
+### soal
 
 ![7.png](/gambar/7.png)
 
 ![6.png](/gambar/6.png)
 
-#SYNTAX
+#### SYNTAX
 
 berikut merupakan syntax untuk menampilkan program diatas
+
+'''python
 
 x = 0
 names = []
@@ -114,19 +121,19 @@ print("======================================================================")
 for n in range(x):
     print("|",n+1,"|",names[n],"|",nim[n],"|",uts[n],"|",uas[n],"|",akhir[n],"|")
 
-#OUTPUT
+#### OUTPUT
 
 Dibawah ini merupakan hasil output dari syntax diatas
 
 ![3.png](/gambar/3.png)
 
-##TUGAS PRAKTIKUM 5
+## TUGAS PRAKTIKUM 5
 
-SOAL
+#### SOAL
 
 ![8.png](/gambar/8.png)
 
-SYNTAX
+#### SYNTAX
 
 berikut merupakan syntax untuk menampilkan program diatas
 
