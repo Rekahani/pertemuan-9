@@ -2,13 +2,13 @@
 
 ## LIST, TUPLE, DAN DICTIONARY
 
-**Nama : Reka Hani Latifah Nurhasanah
+**Nama : Reka Hani Latifah Nurhasanah** <br>
 
-**Nim : 312010343
+**Nim : 312010343** <br>
 
-**Kelas : TI.20.A2
+**Kelas : TI.20.A2** <br>
 
-**Matkul : Bahasa Pemrograman
+**Matkul : Bahasa Pemrograman** <br>
 
 
 
@@ -22,7 +22,7 @@
 
 berikut merupakan syntax untuk menampilkan program diatas
 
-'''python
+```python
 
 print(90*"=")
 
@@ -82,7 +82,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 berikut merupakan syntax untuk menampilkan program diatas
 
-'''python
+```python
 
 x = 0
 names = []
